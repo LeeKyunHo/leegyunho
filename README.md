@@ -5,7 +5,7 @@
 
 📝- [https://blog.naver.com/rbsgh369](https://blog.naver.com/rbsgh369)
 
-<h3에 정기적으로 기사를 씁니다. align="left">나와 연결:</h3>
+<h3 align="left"> 에 정기적으로 기사를 씁니다. 나와 연결:</h3>
 <p align="left">
 </ p>
 
